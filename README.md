@@ -29,7 +29,7 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 
    ```bash
    git clone https://github.com/Kuldeep246/chat-app.git
-   cd mern-chat-app
+   cd chat-app
 
    npm run build
    npm run start
